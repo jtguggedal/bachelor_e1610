@@ -1,0 +1,116 @@
+<!DOCTYPE CrossStudio_Session_File>
+<session>
+ <Bookmarks/>
+ <Breakpoints/>
+ <ExecutionProfileWindow/>
+ <FrameBufferWindow>
+  <FrameBufferWindow addressText="" bufferWidth="-1" bufferHeight="-1" addressSpace="" />
+ </FrameBufferWindow>
+ <Memory1>
+  <MemoryWindow autoEvaluate="0" addressText="" addressOrder="0" refreshPeriod="0" columnsText="" sizeText="0" viewMode="0" dataSize="1" radix="16" name="nrf52832_xxaa_s132" addressSpace="" />
+ </Memory1>
+ <Memory2>
+  <MemoryWindow autoEvaluate="0" addressText="" addressOrder="0" refreshPeriod="0" columnsText="" sizeText="" viewMode="0" dataSize="1" radix="16" name="nrf52832_xxaa_s132" addressSpace="" />
+ </Memory2>
+ <Memory3>
+  <MemoryWindow autoEvaluate="0" addressText="" addressOrder="0" refreshPeriod="0" columnsText="" sizeText="" viewMode="0" dataSize="1" radix="16" name="nrf52832_xxaa_s132" addressSpace="" />
+ </Memory3>
+ <Memory4>
+  <MemoryWindow autoEvaluate="0" addressText="" addressOrder="0" refreshPeriod="0" columnsText="" sizeText="" viewMode="0" dataSize="1" radix="16" name="nrf52832_xxaa_s132" addressSpace="" />
+ </Memory4>
+ <Project>
+  <ProjectSessionItem path="experimental_ble_app_blinky_s132_pca10040" name="unnamed" />
+  <ProjectSessionItem path="experimental_ble_app_blinky_s132_pca10040;nrf52832_xxaa_s132" name="unnamed" />
+  <ProjectSessionItem path="experimental_ble_app_blinky_s132_pca10040;nrf52832_xxaa_s132;RTT Files" name="unnamed" />
+  <ProjectSessionItem path="experimental_ble_app_blinky_s132_pca10040;nrf52832_xxaa_s132;Source Files" name="unnamed" />
+  <ProjectSessionItem path="experimental_ble_app_blinky_s132_pca10040;nrf52832_xxaa_s132;Source Files;Application" name="unnamed" />
+  <ProjectSessionItem path="experimental_ble_app_blinky_s132_pca10040;nrf52832_xxaa_s132;Source Files;nRF_BLE" name="unnamed" />
+  <ProjectSessionItem path="experimental_ble_app_blinky_s132_pca10040;nrf52832_xxaa_s132;Source Files;nRF_Drivers" name="unnamed" />
+  <ProjectSessionItem path="experimental_ble_app_blinky_s132_pca10040;nrf52832_xxaa_s132;Source Files;nRF_Libraries" name="unnamed" />
+  <ProjectSessionItem path="experimental_ble_app_blinky_s132_pca10040;nrf52832_xxaa_s132;Source Files;nRF_Segger_RTT" name="unnamed" />
+  <ProjectSessionItem path="experimental_ble_app_blinky_s132_pca10040;nrf52832_xxaa_s132;Source Files;nRF_SoftDevice" name="unnamed" />
+  <ProjectSessionItem path="experimental_ble_app_blinky_s132_pca10040;nrf52832_xxaa_s132;System Files" name="unnamed" />
+ </Project>
+ <Register1>
+  <RegisterWindow openNodes="CPU - Current Context" binaryNodes="" unsignedNodes="" decimalNodes="" octalNodes="" asciiNodes="" visibleNodes="CPU - Current Context/r0;CPU - Current Context/r1;CPU - Current Context/r2;CPU - Current Context/r3;CPU - Current Context/r4;CPU - Current Context/r5;CPU - Current Context/r6;CPU - Current Context/r7;CPU - Current Context/r8;CPU - Current Context/r9;CPU - Current Context/r10;CPU - Current Context/r11;CPU - Current Context/r12;CPU - Current Context/sp(r13);CPU - Current Context/lr(r14);CPU - Current Context/pc(r15);CPU - Current Context/apsr;CPU/r0;CPU/r1;CPU/r2;CPU/r3;CPU/r4;CPU/r5;CPU/r6;CPU/r7;CPU/r8;CPU/r9;CPU/r10;CPU/r11;CPU/r12;CPU/sp(r13);CPU/lr(r14);CPU/pc(r15);CPU/xpsr;CPU/msp;CPU/psp;CPU/cfbp" name="nrf52832_xxaa_s132" />
+ </Register1>
+ <Register2>
+  <RegisterWindow openNodes="CPU - Current Context" binaryNodes="" unsignedNodes="" decimalNodes="" octalNodes="" asciiNodes="" visibleNodes="CPU - Current Context/r0;CPU - Current Context/r1;CPU - Current Context/r2;CPU - Current Context/r3;CPU - Current Context/r4;CPU - Current Context/r5;CPU - Current Context/r6;CPU - Current Context/r7;CPU - Current Context/r8;CPU - Current Context/r9;CPU - Current Context/r10;CPU - Current Context/r11;CPU - Current Context/r12;CPU - Current Context/sp(r13);CPU - Current Context/lr(r14);CPU - Current Context/pc(r15);CPU - Current Context/apsr;CPU/r0;CPU/r1;CPU/r2;CPU/r3;CPU/r4;CPU/r5;CPU/r6;CPU/r7;CPU/r8;CPU/r9;CPU/r10;CPU/r11;CPU/r12;CPU/sp(r13);CPU/lr(r14);CPU/pc(r15);CPU/xpsr;CPU/msp;CPU/psp;CPU/cfbp" name="nrf52832_xxaa_s132" />
+ </Register2>
+ <Register3>
+  <RegisterWindow openNodes="CPU - Current Context" binaryNodes="" unsignedNodes="" decimalNodes="" octalNodes="" asciiNodes="" visibleNodes="CPU - Current Context/r0;CPU - Current Context/r1;CPU - Current Context/r2;CPU - Current Context/r3;CPU - Current Context/r4;CPU - Current Context/r5;CPU - Current Context/r6;CPU - Current Context/r7;CPU - Current Context/r8;CPU - Current Context/r9;CPU - Current Context/r10;CPU - Current Context/r11;CPU - Current Context/r12;CPU - Current Context/sp(r13);CPU - Current Context/lr(r14);CPU - Current Context/pc(r15);CPU - Current Context/apsr;CPU/r0;CPU/r1;CPU/r2;CPU/r3;CPU/r4;CPU/r5;CPU/r6;CPU/r7;CPU/r8;CPU/r9;CPU/r10;CPU/r11;CPU/r12;CPU/sp(r13);CPU/lr(r14);CPU/pc(r15);CPU/xpsr;CPU/msp;CPU/psp;CPU/cfbp" name="nrf52832_xxaa_s132" />
+ </Register3>
+ <Register4>
+  <RegisterWindow openNodes="CPU - Current Context" binaryNodes="" unsignedNodes="" decimalNodes="" octalNodes="" asciiNodes="" visibleNodes="CPU - Current Context/r0;CPU - Current Context/r1;CPU - Current Context/r2;CPU - Current Context/r3;CPU - Current Context/r4;CPU - Current Context/r5;CPU - Current Context/r6;CPU - Current Context/r7;CPU - Current Context/r8;CPU - Current Context/r9;CPU - Current Context/r10;CPU - Current Context/r11;CPU - Current Context/r12;CPU - Current Context/sp(r13);CPU - Current Context/lr(r14);CPU - Current Context/pc(r15);CPU - Current Context/apsr;CPU/r0;CPU/r1;CPU/r2;CPU/r3;CPU/r4;CPU/r5;CPU/r6;CPU/r7;CPU/r8;CPU/r9;CPU/r10;CPU/r11;CPU/r12;CPU/sp(r13);CPU/lr(r14);CPU/pc(r15);CPU/xpsr;CPU/msp;CPU/psp;CPU/cfbp" name="nrf52832_xxaa_s132" />
+ </Register4>
+ <TargetWindow programAction="" uploadFileType="" programLoadAddress="" programSize="" uploadFileName="" uploadMemoryInterface="" programFileName="" uploadStartAddress="" programFileType="" uploadSize="" programMemoryInterface="" />
+ <TraceWindow>
+  <Trace enabled="Yes" />
+ </TraceWindow>
+ <Watch1>
+  <Watches active="1" update="Twice a Second" >
+<<<<<<< Updated upstream
+   <Watchpoint linenumber="691" radix="16" name="err_code" expression="err_code" filename="../../../main.c" />
+   <Watchpoint linenumber="126" radix="10" name="color_data" expression="color_data" filename="../../../main.c" />
+   <Watchpoint linenumber="126" radix="10" name="new_color_data" expression="new_color_data" filename="../../../main.c" />
+   <Watchpoint linenumber="155" radix="-1" name="green_state" expression="green_state" filename="../../../main.c" />
+   <Watchpoint linenumber="126" radix="10" name="old_color_data" expression="old_color_data" filename="../../../main.c" />
+   <Watchpoint linenumber="691" radix="16" name="APP_ERROR_CHECK" expression="APP_ERROR_CHECK" filename="../../../main.c" />
+   <Watchpoint linenumber="444" radix="-1" name="advertising_switch_counter" expression="advertising_switch_counter" filename="../../../main.c" />
+=======
+   <Watchpoint linenumber="434" radix="-1" name="advertising_switch_counter" expression="advertising_switch_counter" filename="../../../main.c" />
+   <Watchpoint linenumber="658" radix="16" name="APP_ERROR_CHECK" expression="APP_ERROR_CHECK" filename="../../../main.c" />
+   <Watchpoint linenumber="124" radix="10" name="old_color_data" expression="old_color_data" filename="../../../main.c" />
+   <Watchpoint linenumber="130" radix="-1" name="green_state" expression="green_state" filename="../../../main.c" />
+   <Watchpoint linenumber="124" radix="10" name="new_color_data" expression="new_color_data" filename="../../../main.c" />
+   <Watchpoint linenumber="124" radix="10" name="color_data" expression="color_data" filename="../../../main.c" />
+   <Watchpoint linenumber="658" radix="-1" name="err_code" expression="err_code" filename="../../../main.c" />
+>>>>>>> Stashed changes
+  </Watches>
+ </Watch1>
+ <Watch2>
+  <Watches active="0" update="Never" />
+ </Watch2>
+ <Watch3>
+  <Watches active="0" update="Never" />
+ </Watch3>
+ <Watch4>
+  <Watches active="0" update="Never" />
+ </Watch4>
+ <Files>
+<<<<<<< Updated upstream
+  <SessionOpenFile useTextEdit="1" useBinaryEdit="0" codecName="Default" x="0" debugPath="../../../../../../components/softdevice/common/softdevice_handler/softdevice_handler.c" y="284" path="../../../../../../components/softdevice/common/softdevice_handler/softdevice_handler.c" left="0" selected="0" name="unnamed" top="275" />
+  <SessionOpenFile useTextEdit="1" useBinaryEdit="0" codecName="Default" x="0" debugPath="../../../../../../components/softdevice/s132/headers/nrf_sdm.h" y="225" path="../../../../../../components/softdevice/s132/headers/nrf_sdm.h" left="0" selected="0" name="unnamed" top="213" />
+  <SessionOpenFile useTextEdit="1" useBinaryEdit="0" codecName="Default" x="0" debugPath="../../../../../../components/libraries/timer/app_timer.c" y="937" path="../../../../../../components/libraries/timer/app_timer.c" left="0" selected="0" name="unnamed" top="929" />
+  <SessionOpenFile useTextEdit="1" useBinaryEdit="0" codecName="Default" x="0" debugPath="../../../advertising.c" y="7" path="../../../advertising.c" left="0" selected="0" name="unnamed" top="0" />
+  <SessionOpenFile useTextEdit="1" useBinaryEdit="0" codecName="Default" x="0" debugPath="../../../../../../components/libraries/util/app_error.c" y="53" path="../../../../../../components/libraries/util/app_error.c" left="0" selected="0" name="unnamed" top="45" />
+  <SessionOpenFile useTextEdit="1" useBinaryEdit="0" codecName="Default" x="0" debugPath="../../../../../../components/libraries/util/app_error_weak.c" y="45" path="../../../../../../components/libraries/util/app_error_weak.c" left="0" selected="0" name="unnamed" top="30" />
+  <SessionOpenFile useTextEdit="1" useBinaryEdit="0" codecName="Default" x="0" debugPath="C:/Program Files (x86)/SEGGER/SEGGER Embedded Studio 2.16a/source/thumb_crt0.s" y="225" path="C:/Program Files (x86)/SEGGER/SEGGER Embedded Studio 2.16a/source/thumb_crt0.s" left="0" selected="0" name="unnamed" top="216" />
+  <SessionOpenFile useTextEdit="1" useBinaryEdit="0" codecName="Default" x="0" debugPath="C:/Users/Lumanutt.Gaara/AppData/Local/SEGGER/SEGGER Embedded Studio/v2/packages/nRF/XML/nRF52832_xxAA_MemoryMap.xml" y="5" path="C:/Users/Lumanutt.Gaara/AppData/Local/SEGGER/SEGGER Embedded Studio/v2/packages/nRF/XML/nRF52832_xxAA_MemoryMap.xml" left="0" selected="0" name="unnamed" top="0" />
+  <SessionOpenFile useTextEdit="1" useBinaryEdit="0" codecName="Default" x="0" debugPath="C:/Users/Lumanutt.Gaara/AppData/Local/SEGGER/SEGGER Embedded Studio/v2/packages/nRF/Source/nrf52_Vectors.s" y="0" path="C:/Users/Lumanutt.Gaara/AppData/Local/SEGGER/SEGGER Embedded Studio/v2/packages/nRF/Source/nrf52_Vectors.s" left="0" selected="0" name="unnamed" top="54" />
+  <SessionOpenFile useTextEdit="1" useBinaryEdit="0" codecName="Default" x="0" debugPath="C:/Program Files (x86)/SEGGER/SEGGER Embedded Studio 2.16a/targets/Cortex_M/flash_placement.xml" y="0" path="C:/Program Files (x86)/SEGGER/SEGGER Embedded Studio 2.16a/targets/Cortex_M/flash_placement.xml" left="0" selected="0" name="unnamed" top="12" />
+  <SessionOpenFile useTextEdit="1" useBinaryEdit="0" codecName="Default" x="0" debugPath="../../../../../../components/ble/common/ble_advdata.c" y="716" path="../../../../../../components/ble/common/ble_advdata.c" left="0" selected="0" name="unnamed" top="708" />
+  <SessionOpenFile useTextEdit="1" useBinaryEdit="0" codecName="Default" x="0" debugPath="../../../../../../components/ble/common/ble_advdata.h" y="167" path="../../../../../../components/ble/common/ble_advdata.h" left="0" selected="0" name="unnamed" top="159" />
+  <SessionOpenFile useTextEdit="1" useBinaryEdit="0" codecName="Default" x="0" debugPath="../../../../ble_app_hrs/main.c" y="928" path="../../../../ble_app_hrs/main.c" left="0" selected="0" name="unnamed" top="918" />
+  <SessionOpenFile useTextEdit="1" useBinaryEdit="0" codecName="Default" x="0" debugPath="../../../../../bsp/pca10040.h" y="22" path="../../../../../bsp/pca10040.h" left="0" selected="0" name="unnamed" top="17" />
+  <SessionOpenFile useTextEdit="1" useBinaryEdit="0" codecName="Default" x="0" debugPath="../../../../../../components/drivers_nrf/gpiote/nrf_drv_gpiote.c" y="372" path="../../../../../../components/drivers_nrf/gpiote/nrf_drv_gpiote.c" left="0" selected="0" name="unnamed" top="358" />
+  <SessionOpenFile useTextEdit="1" useBinaryEdit="0" codecName="Default" x="0" debugPath="../../../../../../components/drivers_nrf/gpiote/nrf_drv_gpiote.h" y="63" path="../../../../../../components/drivers_nrf/gpiote/nrf_drv_gpiote.h" left="0" selected="0" name="unnamed" top="52" />
+  <SessionOpenFile useTextEdit="1" useBinaryEdit="0" codecName="Default" x="0" debugPath="../../../../../../components/drivers_nrf/hal/nrf_gpiote.h" y="42" path="../../../../../../components/drivers_nrf/hal/nrf_gpiote.h" left="0" selected="1" name="unnamed" top="33" />
+=======
+  <SessionOpenFile useTextEdit="1" useBinaryEdit="0" codecName="Default" x="0" debugPath="../../../advertising.c" y="3" path="../../../advertising.c" left="0" selected="0" name="unnamed" top="0" />
+  <SessionOpenFile useTextEdit="1" useBinaryEdit="0" codecName="Default" x="42" debugPath="../../../main.c" y="189" path="../../../main.c" left="0" selected="0" name="unnamed" top="161" />
+  <SessionOpenFile useTextEdit="1" useBinaryEdit="0" codecName="Default" x="0" debugPath="../../../../../../components/libraries/util/app_util.h" y="184" path="../../../../../../components/libraries/util/app_util.h" left="0" selected="0" name="unnamed" top="155" />
+  <SessionOpenFile useTextEdit="1" useBinaryEdit="0" codecName="Default" x="0" debugPath="../../../ble_lbs/ble_lbs.h" y="63" path="../../../ble_lbs/ble_lbs.h" left="0" selected="0" name="unnamed" top="39" />
+  <SessionOpenFile useTextEdit="1" useBinaryEdit="0" codecName="Default" x="0" debugPath="../../../ble_lbs/ble_lbs.c" y="92" path="../../../ble_lbs/ble_lbs.c" left="0" selected="0" name="unnamed" top="70" />
+  <SessionOpenFile useTextEdit="1" useBinaryEdit="0" codecName="Default" x="0" debugPath="../../../advertising.h" y="30" path="../../../advertising.h" left="0" selected="1" name="unnamed" top="0" />
+  <SessionOpenFile useTextEdit="1" useBinaryEdit="0" codecName="Default" x="0" debugPath="../../../twi_motordriver/twi_motordriver.c" y="116" path="../../../twi_motordriver/twi_motordriver.c" left="0" selected="0" name="unnamed" top="89" />
+  <SessionOpenFile useTextEdit="1" useBinaryEdit="0" codecName="Default" x="66" debugPath="../../../../../../components/drivers_nrf/twi_master/nrf_drv_twi.c" y="331" path="../../../../../../components/drivers_nrf/twi_master/nrf_drv_twi.c" left="0" selected="0" name="unnamed" top="313" />
+  <SessionOpenFile useTextEdit="1" useBinaryEdit="0" codecName="Default" x="0" debugPath="../../../../../../components/drivers_nrf/hal/nrf_gpiote.h" y="8" path="../../../../../../components/drivers_nrf/hal/nrf_gpiote.h" left="0" selected="0" name="unnamed" top="0" />
+  <SessionOpenFile useTextEdit="1" useBinaryEdit="0" codecName="Default" x="29" debugPath="../../../twi_rfid_driver/twi_rfid_driver.c" y="68" path="../../../twi_rfid_driver/twi_rfid_driver.c" left="0" selected="0" name="unnamed" top="48" />
+  <SessionOpenFile useTextEdit="1" useBinaryEdit="0" codecName="Default" x="0" debugPath="../../../../../../components/softdevice/s132/headers/ble_gatts.h" y="232" path="../../../../../../components/softdevice/s132/headers/ble_gatts.h" left="0" selected="0" name="unnamed" top="190" />
+  <SessionOpenFile useTextEdit="1" useBinaryEdit="0" codecName="Default" x="0" debugPath="../../../read_set_bit/read_set_bit.c" y="3" path="../../../read_set_bit/read_set_bit.c" left="0" selected="0" name="unnamed" top="0" />
+  <SessionOpenFile useTextEdit="1" useBinaryEdit="0" codecName="Default" x="0" debugPath="../../../read_set_bit/read_set_bit.h" y="17" path="../../../read_set_bit/read_set_bit.h" left="0" selected="0" name="unnamed" top="0" />
+>>>>>>> Stashed changes
+ </Files>
+ <ARMCrossStudioWindow activeProject="nrf52832_xxaa_s132" autoConnectTarget="J-Link" debugSearchFileMap="" fileDialogInitialDirectory="C:/SDK/examples/ble_peripheral/ble_app_hrs" fileDialogDefaultFilter="*.c" autoConnectCapabilities="3711" debugSearchPath="" buildConfiguration="Debug" />
+</session>
